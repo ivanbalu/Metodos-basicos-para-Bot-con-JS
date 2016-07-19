@@ -1,5 +1,5 @@
 var TelegramBot = require('node-telegram-bot-api');
-var token = '253985352:AAEPl8oq5WxMSW75LpeXaRZ1S5xrfAXOWRQ';
+var token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 var fs = require('fs');
 
 var bot = new TelegramBot(
